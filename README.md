@@ -4,3 +4,4 @@
 -Practice your coding skills\
 -Ask for help\
 -Research\
+-Know your limits
